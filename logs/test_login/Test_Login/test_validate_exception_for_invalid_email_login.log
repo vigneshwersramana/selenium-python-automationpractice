@@ -1,0 +1,6 @@
+2022-06-21 15:22:00.511 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:22:00.511 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_for_invalid_email_login
+2022-06-21 15:22:30.873 | INFO     | tests.test_login:test_validate_exception_for_invalid_email_login:128 - Title is My Store
+2022-06-21 15:22:39.938 | INFO     | tests.test_login:test_validate_exception_for_invalid_email_login:134 - Clicked on Sign In Button
+2022-06-21 15:22:39.958 | INFO     | tests.test_login:test_validate_exception_for_invalid_email_login:137 - Sign In Page loaded
+2022-06-21 15:22:48.151 | INFO     | tests.test_login:test_validate_exception_for_invalid_email_login:149 - Validation Message displayed for Invalid email id:Authentication failed.

@@ -1,0 +1,16 @@
+2022-06-21 19:39:18.729 | INFO     | tests.conftest:write_logs:105 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 19:39:18.729 | INFO     | tests.conftest:write_logs:106 - Test Execution Started: test_validate_exception_for_emailid_centime
+2022-06-21 19:39:27.956 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is Centime Cash Flow Management
+2022-06-21 19:39:28.007 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Our Solutions: Element is Displayed
+2022-06-21 19:39:28.038 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Pricing: Element is Displayed
+2022-06-21 19:39:28.057 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Partners: Element is Displayed
+2022-06-21 19:39:28.077 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Resources: Element is Displayed
+2022-06-21 19:39:28.096 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - About Us: Element is Displayed
+2022-06-21 19:39:28.120 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Contact Us: Element is Displayed
+2022-06-21 19:39:28.298 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Centime Kick Off: Element is Displayed
+2022-06-21 19:39:28.327 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - IST Time Zone: Element is Displayed
+2022-06-21 19:39:29.211 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Enter Details: Element is Displayed
+2022-06-21 19:39:29.240 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is 30 min
+2022-06-21 19:39:29.265 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is India Standard Time
+2022-06-21 19:39:29.294 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - 2:30am - 3:00am, Saturday, June 25, 2022: Element is Displayed
+2022-06-21 19:39:31.412 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Invalid Email Entered: Element is Displayed

@@ -1,0 +1,94 @@
+{
+  "title": "My Store",
+  "testcases": [{
+    "testcaseid": "TC1",
+    "emailid": "centimetest123@gmail.com",
+    "firstname": "ValidfirstName",
+    "lastname": "Validlastname",
+    "password": "abc123",
+    "dob": "8-9-2005",
+    "company": "Centime Inc",
+    "address1": "123, abc, valid address",
+    "address2": "Star building",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "postalcode": "12345",
+    "additionalinfo": "abcd12345567890xyz",
+    "homenumber": "1223456",
+    "mobilenumber": "123456"
+    },
+    {
+      "testcaseid": "TC2",
+      "emailid": "abc@gmail.com"
+    },
+    {
+      "testcaseid": "TC3",
+      "emailid": "randomtext"
+    },
+    {
+      "testcaseid": "TC4",
+      "emailid": "centimetestinvalid@gmail.com"
+    },
+    {
+      "testcaseid": "TC5",
+      "emailid": "centimetestinvalid@gmail.com",
+      "emailinvalid": "centimetestinvalid",
+      "firstname": "12345",
+      "lastname": "12345",
+      "password": "1234",
+      "postalcode": "1234",
+      "homenumber": "invalid",
+      "mobilenumber": "invalid"
+    },
+    {
+      "testcaseid": "TC6",
+      "emailid": "centimetest1@gmail.com",
+      "password": "centime123"
+    },
+    {
+      "testcaseid": "TC7",
+      "emailid": "centimetest@gmail.com",
+      "password": "centime123"
+    },
+    {
+      "testcaseid": "TC8",
+      "emailid": "centimetest1@gmail.com",
+      "password": "centime123$$"
+    },
+    {
+      "testcaseid": "TC9",
+      "emailid": "centimetest1@gmail.com",
+      "password": "centime123",
+      "productname": "Printed Dress",
+      "price": "26"
+    },
+    {
+      "testcaseid": "TC10",
+      "emailid": "centimetest1@gmail.com",
+      "password": "centime123",
+      "productname": "Faded Short Sleeve T-shirts",
+      "price": "16.51"
+    },
+    {
+      "testcaseid": "TC11",
+      "date": "25",
+      "month": "june",
+      "year": "2022",
+      "time": "2:30am",
+      "emailid": "centimetest@gmail.com",
+      "name": "TestCentime",
+      "role": "Test Role",
+      "company": "Test Company"
+    },
+  {
+      "testcaseid": "TC12",
+      "date": "25",
+      "month": "june",
+      "year": "2022",
+      "time": "2:30am",
+      "emailid": "centimetest",
+      "name": "TestCentime",
+      "role": "Test Role",
+      "company": "Test Company"
+    }]
+}

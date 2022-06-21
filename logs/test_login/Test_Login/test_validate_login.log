@@ -1,0 +1,7 @@
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_login
+2022-06-21 15:21:32.807 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:21:41.038 | INFO     | tests.test_login:test_validate_login:27 - Clicked on Sign In Button
+2022-06-21 15:21:41.074 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:21:56.800 | INFO     | utilities.ReusableFunctions:isText:82 - Text Matches and text is MY ACCOUNT
+2022-06-21 15:21:56.801 | INFO     | tests.test_login:test_validate_login:39 - Login successful

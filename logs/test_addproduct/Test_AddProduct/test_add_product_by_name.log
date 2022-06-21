@@ -1,0 +1,20 @@
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_add_product_by_name
+2022-06-21 15:21:32.364 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:21:38.646 | INFO     | tests.test_addproduct:test_add_product_by_name:86 - Clicked on Sign In Button
+2022-06-21 15:21:52.306 | INFO     | utilities.ReusableFunctions:isText:82 - Text Matches and text is MY ACCOUNT
+2022-06-21 15:21:52.307 | INFO     | tests.test_addproduct:test_add_product_by_name:96 - Login successful
+2022-06-21 15:22:38.020 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Women Section Link: Element is Displayed
+2022-06-21 15:22:38.038 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Dresses Section Link: Element is Displayed
+2022-06-21 15:22:38.053 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - TShirts Section Link: Element is Displayed
+2022-06-21 15:22:38.093 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is 26
+2022-06-21 15:22:47.520 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is Printed Dress
+2022-06-21 15:22:47.539 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product: Element is Displayed
+2022-06-21 15:22:47.553 | INFO     | utilities.ReusableFunctions:isText:82 - Text Matches and text is Printed Dress
+2022-06-21 15:22:47.570 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is 26
+2022-06-21 15:22:47.632 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - More Info: Element is Displayed
+2022-06-21 15:22:47.647 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Data Sheet: Element is Displayed
+2022-06-21 15:22:47.661 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Reviews: Element is Displayed
+2022-06-21 15:22:53.882 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product successfully added: Element is Displayed
+2022-06-21 15:23:03.257 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Cart Summary Page: Element is Displayed
+2022-06-21 15:23:03.276 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product Detail: Element is Displayed

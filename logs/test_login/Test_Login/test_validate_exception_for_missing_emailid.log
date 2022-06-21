@@ -1,0 +1,6 @@
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_for_missing_emailid
+2022-06-21 15:21:37.801 | INFO     | tests.test_login:test_validate_exception_for_missing_emailid:54 - Title is My Store
+2022-06-21 15:21:47.309 | INFO     | tests.test_login:test_validate_exception_for_missing_emailid:60 - Clicked on Sign In Button
+2022-06-21 15:21:47.333 | INFO     | tests.test_login:test_validate_exception_for_missing_emailid:63 - Sign In Page loaded
+2022-06-21 15:21:57.821 | INFO     | tests.test_login:test_validate_exception_for_missing_emailid:73 - Validation Message displayed for email id:An email address required.

@@ -1,0 +1,16 @@
+2022-06-21 15:21:28.178 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:21:28.178 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_for_mandatory_fields_in_registration
+2022-06-21 15:21:42.212 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:23:01.506 | INFO     | tests.test_registration:test_validate_exception_for_mandatory_fields_in_registration:125 - Clicked on Sign In Button
+2022-06-21 15:23:01.529 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:23:04.813 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Registration Form: Element is Displayed
+2022-06-21 15:23:10.211 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Error Details List: Element is Displayed
+2022-06-21 15:23:10.225 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - You must register at least one phone number: Element is Displayed
+2022-06-21 15:23:10.240 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Last Name is required: Element is Displayed
+2022-06-21 15:23:10.253 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - First Name is required: Element is Displayed
+2022-06-21 15:23:10.268 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Password is required: Element is Displayed
+2022-06-21 15:23:10.282 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Address 1 is required: Element is Displayed
+2022-06-21 15:23:10.295 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - City is required: Element is Displayed
+2022-06-21 15:23:10.309 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - State is Required: Element is Displayed
+2022-06-21 15:23:10.327 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Postal Code is Required: Element is Displayed
+2022-06-21 15:23:10.341 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Alias is Required: Element is Displayed

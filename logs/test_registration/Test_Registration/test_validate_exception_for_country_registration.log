@@ -1,0 +1,10 @@
+2022-06-21 15:23:10.427 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:23:10.427 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_for_country_registration
+2022-06-21 15:23:24.407 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:23:28.426 | INFO     | tests.test_registration:test_validate_exception_for_country_registration:160 - Clicked on Sign In Button
+2022-06-21 15:23:28.444 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:23:33.815 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Registration Form: Element is Displayed
+2022-06-21 15:23:38.070 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Error Details List: Element is Displayed
+2022-06-21 15:23:38.084 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Country is required: Element is Displayed
+2022-06-21 15:23:38.098 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Country is Invalid: Element is Displayed
+2022-06-21 15:23:38.113 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Country not loaded: Element is Displayed

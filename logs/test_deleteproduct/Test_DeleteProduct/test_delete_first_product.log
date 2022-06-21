@@ -1,0 +1,22 @@
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:20:55.750 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_delete_first_product
+2022-06-21 15:21:33.009 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:21:41.411 | INFO     | tests.test_deleteproduct:test_delete_first_product:29 - Clicked on Sign In Button
+2022-06-21 15:21:57.812 | INFO     | utilities.ReusableFunctions:isText:82 - Text Matches and text is MY ACCOUNT
+2022-06-21 15:21:57.812 | INFO     | tests.test_deleteproduct:test_delete_first_product:39 - Login successful
+2022-06-21 15:22:14.959 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Women Section Link: Element is Displayed
+2022-06-21 15:22:14.976 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Dresses Section Link: Element is Displayed
+2022-06-21 15:22:14.992 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - TShirts Section Link: Element is Displayed
+2022-06-21 15:22:15.010 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is Faded Short Sleeve T-shirts
+2022-06-21 15:22:15.029 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is 16.51
+2022-06-21 15:22:44.670 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is Faded Short Sleeve T-shirts - My Store
+2022-06-21 15:22:44.690 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product: Element is Displayed
+2022-06-21 15:22:44.703 | INFO     | utilities.ReusableFunctions:isText:82 - Text Matches and text is Faded Short Sleeve T-shirts
+2022-06-21 15:22:44.720 | INFO     | utilities.ReusableFunctions:containsText:91 - Text Matches and text is 16.51
+2022-06-21 15:22:44.776 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - More Info: Element is Displayed
+2022-06-21 15:22:44.790 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Data Sheet: Element is Displayed
+2022-06-21 15:22:44.804 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Reviews: Element is Displayed
+2022-06-21 15:22:52.055 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product successfully added: Element is Displayed
+2022-06-21 15:23:30.494 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Cart Summary Page: Element is Displayed
+2022-06-21 15:23:30.510 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Product Detail: Element is Displayed
+2022-06-21 15:23:34.656 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Shopping cart is Empty: Element is Displayed

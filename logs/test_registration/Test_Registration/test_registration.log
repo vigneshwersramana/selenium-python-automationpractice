@@ -1,0 +1,8 @@
+2022-06-21 15:23:34.771 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:23:34.771 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_registration
+2022-06-21 15:23:55.017 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:23:58.825 | INFO     | tests.test_registration:test_registration:26 - Clicked on Sign In Button
+2022-06-21 15:23:58.843 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:24:02.129 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Registration Form: Element is Displayed
+2022-06-21 15:24:02.183 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Personal Information: Element is Displayed
+2022-06-21 15:24:04.914 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Account logged In: Element is Displayed

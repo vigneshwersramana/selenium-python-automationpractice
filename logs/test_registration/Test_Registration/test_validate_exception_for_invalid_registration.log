@@ -1,0 +1,14 @@
+2022-06-21 15:22:59.848 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:22:59.848 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_for_invalid_registration
+2022-06-21 15:23:25.847 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:23:29.646 | INFO     | tests.test_registration:test_validate_exception_for_invalid_registration:188 - Clicked on Sign In Button
+2022-06-21 15:23:29.664 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:23:34.999 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Registration Form: Element is Displayed
+2022-06-21 15:23:39.989 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Error Details List: Element is Displayed
+2022-06-21 15:23:40.003 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - First Name is Invalid: Element is Displayed
+2022-06-21 15:23:40.017 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Last Name is Invalid: Element is Displayed
+2022-06-21 15:23:40.031 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Email Id is Invalid: Element is Displayed
+2022-06-21 15:23:40.044 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Password is Invalid: Element is Displayed
+2022-06-21 15:23:40.058 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Postal Code is Invalid: Element is Displayed
+2022-06-21 15:23:40.073 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Home Number is Invalid: Element is Displayed
+2022-06-21 15:23:40.086 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Mobile Number is Invalid: Element is Displayed

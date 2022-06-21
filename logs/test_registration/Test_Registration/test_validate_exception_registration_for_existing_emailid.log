@@ -1,0 +1,6 @@
+2022-06-21 15:21:56.885 | INFO     | tests.conftest:write_logs:95 - :::::::::::::::::::::::::::::::::::::::::
+2022-06-21 15:21:56.885 | INFO     | tests.conftest:write_logs:96 - Test Execution Started: test_validate_exception_registration_for_existing_emailid
+2022-06-21 15:22:43.799 | INFO     | utilities.ReusableFunctions:isTitle:73 - Title is My Store
+2022-06-21 15:22:54.926 | INFO     | tests.test_registration:test_validate_exception_registration_for_existing_emailid:80 - Clicked on Sign In Button
+2022-06-21 15:22:54.945 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Sign In Page: Element is Displayed
+2022-06-21 15:22:59.718 | INFO     | utilities.ReusableFunctions:isDisplayed:52 - Email ID Already Registered: Element is Displayed
