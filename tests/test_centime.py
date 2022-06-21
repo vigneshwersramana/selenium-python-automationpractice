@@ -3,10 +3,7 @@ This script is responsible for validating centime customer connect
 """
 # pylint: disable = R0801, E1101, C0103, C0116, C0301, C0115
 
-import random
-import string
 import pytest
-from loguru import logger
 import utilities.ReusableFunctions as reusableFunctions
 from pageObjects.CentimeHomePage import CentimeHomePage
 from utilities.Actions import Actions
@@ -18,7 +15,6 @@ class Test_Centime(Base):
     @pytest.mark.centime
     @pytest.mark.positive
     def test_event_scheduler_centime(self, dataLoad):
-        log = logger
         centime = CentimeHomePage(self.driver)
         actions = Actions(self.driver)
         data = {}
@@ -55,7 +51,6 @@ class Test_Centime(Base):
     @pytest.mark.centime
     @pytest.mark.negative
     def test_validate_exception_for_emailid_centime(self, dataLoad):
-        log = logger
         centime = CentimeHomePage(self.driver)
         actions = Actions(self.driver)
         data = {}
@@ -91,6 +86,3 @@ class Test_Centime(Base):
         actions.click(centime.getNetSuiteRdBtn())
         actions.click(centime.getScheduleEventButton())
         reusableFunctions.isDisplayed(centime.getEmailIDErrorMsg(), "Invalid Email Entered")
-
-
-

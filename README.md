@@ -53,3 +53,7 @@
 <img src = "img/Centime Results.png">
 <img src = "img/Automation Practice with All Pass.png">
 <img src = "img/Automation Practice with Failures.png">
+
+### Coding Standards
+* Followed coding standard and was code rated at 10/10
+<img src = "img/Pylint Score.png">
