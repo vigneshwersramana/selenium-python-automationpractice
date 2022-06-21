@@ -50,4 +50,6 @@
 
 ## Results
 * In [Reports](reports) there are 3 HTML report files which was executed earlier. Below attached are the execution results for the same.
-![](img/Centime Results.png)![](img/Automation Practice with All Pass.png)![](img/Automation Practice with Failures.png)
+<img src = "img/Centime Results.png">
+<img src = "img/Automation Practice with All Pass.png">
+<img src = "img/Automation Practice with Failures.png">
